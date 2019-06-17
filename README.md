@@ -9,7 +9,7 @@ Menggunakan database *world* yang terdapat pada program mySQL, didapat:
 
 1. __Populasi ASEAN__
 
-    ![populasi ASEAN](./images/2.png)
+    ![populasi ASEAN](./images/1.png)
 #
 2. __Persentase Populasi ASEAN__
 
