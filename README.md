@@ -6,25 +6,24 @@
 
 ### **Soal 2 - Infografis ASEAN**
 Menggunakan database *world* yang terdapat pada program mySQL, didapat: 
+
 1. __Populasi ASEAN__
+
     ![populasi ASEAN](./images/2.png)
-
 #
-
 2. __Persentase Populasi ASEAN__
-    ![persen populasi ASEAN](./images/2.png)
 
+    ![persen populasi ASEAN](./images/2.png)
 #
 
 3. __Gross National Product ASEAN__
-    ![GNP ASEAN](./images/3.png)
 
+    ![GNP ASEAN](./images/3.png)
 #
 
 4. __Persentase Luas Daratan ASEAN__
-    ![persen luas daratan ASEAN](./images/4.png)
 
- 
+    ![persen luas daratan ASEAN](./images/4.png)
 #
 
 ### **_Enjoy!_**
